@@ -53,13 +53,14 @@ xdescribe "OnlineOrder" do
   describe "OnlineOrder.all" do
     it "Returns an array of all online orders" do
       # TODO: Your test code here!
-      # Useful checks might include:
-      #   - OnlineOrder.all returns an array
-      #   - Everything in the array is an Order
-      #   - The number of orders is correct
-      #   - The customer is present
-      #   - The status is present
-      # Feel free to split this into multiple tests if needed
+    end
+
+    it "Returns accurate information about the first online order" do
+      # TODO: Your test code here!
+    end
+
+    it "Returns accurate information about the last online order" do
+      # TODO: Your test code here!
     end
   end
 
