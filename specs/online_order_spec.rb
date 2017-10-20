@@ -64,6 +64,16 @@ xdescribe "OnlineOrder" do
     end
   end
 
+  describe "OnlineOrder.find" do
+    it "Will find an online order from the CSV" do
+      # TODO: Your test code here!
+    end
+
+    it "Raises an error for an online order that doesn't exist" do
+      # TODO: Your test code here!
+    end
+  end
+
   describe "OnlineOrder.find_by_customer" do
     it "Returns an array of online orders for a specific customer ID" do
       # TODO: Your test code here!
