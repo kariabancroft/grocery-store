@@ -83,13 +83,14 @@ xdescribe "Order Wave 2" do
   describe "Order.all" do
     it "Returns an array of all orders" do
       # TODO: Your test code here!
-      # Useful checks might include:
-      #   - Order.all returns an array
-      #   - Everything in the array is an Order
-      #   - The number of orders is correct
-      #   - The ID and products of the first and last
-      #       orders match what's in the CSV file
-      # Feel free to split this into multiple tests if needed
+    end
+
+    it "Returns accurate information about the first order" do
+      # TODO: Your test code here!
+    end
+
+    it "Returns accurate information about the last order" do
+      # TODO: Your test code here!
     end
   end
 

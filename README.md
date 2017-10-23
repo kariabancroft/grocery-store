@@ -10,8 +10,8 @@ This project will allow you to explore object-oriented design as well as a few o
 1. Clone the forked repo: `$ git clone [YOUR FORKED REPO URL]`
 1. `cd` into the dir created `$ cd grocery-store`
 1. Run `git remote -v` to verify the folder you are in corresponds to the fork you have created.  
-  If it is **correct** it will include "Ada-C8"  
-  If it is **incorrect** it will include "AdaGold"  
+  If it is **correct** it will include your username
+  If it is **incorrect** it will include "AdaGold" or "Ada-C8" 
 1. Run `gem install minitest-skip` to install an extra gem for testing (more on what this actually does later).
 
 ### Testing

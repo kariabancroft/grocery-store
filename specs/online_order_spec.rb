@@ -53,18 +53,37 @@ xdescribe "OnlineOrder" do
   describe "OnlineOrder.all" do
     it "Returns an array of all online orders" do
       # TODO: Your test code here!
-      # Useful checks might include:
-      #   - OnlineOrder.all returns an array
-      #   - Everything in the array is an Order
-      #   - The number of orders is correct
-      #   - The customer is present
-      #   - The status is present
-      # Feel free to split this into multiple tests if needed
+    end
+
+    it "Returns accurate information about the first online order" do
+      # TODO: Your test code here!
+    end
+
+    it "Returns accurate information about the last online order" do
+      # TODO: Your test code here!
     end
   end
-  
+
+  describe "OnlineOrder.find" do
+    it "Will find an online order from the CSV" do
+      # TODO: Your test code here!
+    end
+
+    it "Raises an error for an online order that doesn't exist" do
+      # TODO: Your test code here!
+    end
+  end
+
   describe "OnlineOrder.find_by_customer" do
     it "Returns an array of online orders for a specific customer ID" do
+      # TODO: Your test code here!
+    end
+
+    it "Raises an error if the customer does not exist" do
+      # TODO: Your test code here!
+    end
+
+    it "Returns an empty array if the customer has no orders" do
       # TODO: Your test code here!
     end
   end
