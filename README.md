@@ -10,7 +10,7 @@ You should demonstrate an ability to:
 - Use instance variables and methods
 - Reading from a CSV file
 - Write DRY code by reusing methods
-- Use inheritance effectively
+- Use inheritance to create a subclass
 
 ## Baseline Setup
 
