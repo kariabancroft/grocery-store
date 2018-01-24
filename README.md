@@ -4,6 +4,14 @@ Let's simulate a grocery store system! We want to be able to keep track of the o
 
 This project will allow you to explore object-oriented design as well as a few other new topics. This is an individual, [stage 1](https://github.com/Ada-Developers-Academy/pedagogy/blob/master/rule-of-three.md) project.
 
+## Learning Goals
+You should demonstrate an ability to:
+- Practice Test-Driven-Development
+- Use instance variables and methods
+- Reading from a CSV file
+- Write DRY code by reusing methods
+- Use inheritance to create a subclass
+
 ## Baseline Setup
 
 1. Fork the project master.
@@ -169,3 +177,6 @@ The data for the online order CSV file consists of:
 | Products  | String  | The list of products in the following format: `name:price;nextname:nextprice`
 | Customer ID | Integer | A unique identifier corresponding to a Customer
 | Status | String | A string representing the order's current status
+
+## What We Are Looking For
+Check out the [feedback template](feedback.md) to see what instructors will be looking for.
