@@ -3,10 +3,10 @@ Congratulations! You're submitting your assignment.
 
 ## Comprehension Questions
 
-|  Question 	|   Response	|
-|---	|---	|
-|   Why is it useful to put classes inside modules? 	|   	|
-|   What is accomplished with `raise ArgumentError`? 	|   	|
-|   Why do you think we made the `.all` & `.find` methods class methods?  Why not instance methods?	|   	|
-|   Why does it make sense to use inheritance for the online order?  |  |
-|   Did the presence of automated tests change the way you thought about the problem? How? | |
+Question | Response
+--- | ---
+Why is it useful to put classes inside modules? | 
+What is accomplished with `raise ArgumentError`? | 
+Why do you think we made the `.all` & `.find` methods class methods?  Why not instance methods? | 
+Why does it make sense to use inheritance for the online order? | 
+Did the presence of automated tests change the way you thought about the problem? How? | 
